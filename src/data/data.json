@@ -1,0 +1,12 @@
+{
+    "id1":{
+        "name":"K Dinesh kumar",
+        "phone": 7013179124,
+        "email":"dinesh@gmail.com"
+    },
+    "id2":{
+        "name":"G ramesh kumar",
+        "phone": 9052237336,
+        "email":"ramesh@gmail.com"
+    }    
+}
